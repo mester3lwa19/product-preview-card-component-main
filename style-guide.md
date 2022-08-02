@@ -10,7 +10,7 @@ The designs were created to the following widths:
 ## Colors
 
 ### Primary
-
+- 515 * 385
 - Dark cyan: hsl(158, 36%, 37%)
 - Cream: hsl(30, 38%, 92%)
 
